@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: ShadeHikes
 
 # Your name to show in the footer
-author: Some Person
+author: Sam Carter
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Gearlist: "https://beautifuljekyll.com"
+    - Itineray: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -51,11 +50,9 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: SamuelPCarter
+  github: ShadeHikes
+  twitter: SamuelPCarter
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
