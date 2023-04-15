@@ -22,8 +22,8 @@ author: Sam Carter
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Gearlist: "https://beautifuljekyll.com"
-    - Itineray: "https://www.markdowntutorial.com/"
+    - Gearlist: "https://lighterpack.com/r/cvfqaf"
+    - Shade Tracker: "https://share.garmin.com/FR58O"
 
 ################
 # --- Logo --- #
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "ShadeHikes.Github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
