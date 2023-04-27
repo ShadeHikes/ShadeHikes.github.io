@@ -4,12 +4,7 @@ title: About me
 subtitle: Shade Hikes
 ---
 
-This year I am attempting a Calendar Year Triple Crown.name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+This year I am attempting a Calendar Year Triple Crown.
 
 ### My story
 
