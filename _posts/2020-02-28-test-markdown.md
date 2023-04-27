@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gearlist
-subtitle: What am I carrying?
-tags: [test]
-comments: true
+subtitle: What's on my back?
+tags: [Gear]
+comments: 
 ---
 
 <script src="https://lighterpack.com/e/cvfqaf"></script><div id="cvfqaf"></div>
